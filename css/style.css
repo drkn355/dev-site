@@ -18,7 +18,7 @@ body {
     padding: 5%;
     position: absolute;
     top: 50%;
-    transform: translateX(-50%)translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
 }
 
 #moss-img {
@@ -36,7 +36,6 @@ h1 {
     height: auto;
     margin: 5% 0 0 0;
     text-align: center;
-    width: auto;
 }
 
 p {
@@ -46,19 +45,17 @@ p {
     height: auto;
     margin: 2% 0 0 0;
     text-align: center;
-    width: auto;
 }
 
 .links {
     bottom: 5px;
+    font-family: 'Courier New';
+    font-size: 1vw;
     left: 5px;
     position: absolute;
+    height: auto;
 }
 
 a {
     color: #00ADB5;
-    font-family: 'Courier New';
-    height: auto;
-    margin: 0;
-    width: auto;
 }
