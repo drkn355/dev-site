@@ -14,12 +14,16 @@ h1 {
     color: #00ADB5;
 }
 
-h3 {
+h2 {
     color: #00ADB5;
 }
 
 p {
     color: #EEEEEE;
+}
+
+h3 {
+    color: #00ADB5;
 }
 
 a {
@@ -40,4 +44,65 @@ td {
 
 label {
     color: #EEEEEE;
+}
+
+.top-content {
+    border-radius: 4vh;
+    background-color: #393E46;
+    padding: 5%;
+    margin: 10%;
+}
+
+#pp-img {
+    float: left;
+    margin: 0 5% 0 0;
+}
+
+.cert-content {
+    border-radius: 4vh;
+    background-color: #393E46;
+    padding: 5%;
+    margin: 10%;
+}
+
+.skill-content {
+    border-radius: 4vh;
+    background-color: #393E46;
+    padding: 5%;
+    margin: 10%;
+}
+
+.skill-table {
+    display: inline-block;
+    padding: 5%;
+    border-radius: 4vh;
+    background-color: #222831;
+    margin: 3%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.link-content {
+    color: #EEEEEE;
+}
+
+.getintouch-content {
+    border-radius: 4vh;
+    background-color: #393E46;
+    padding: 5%;
+    margin: 10%;
+}
+
+.form-content {
+    border-radius: 4vh;
+    background-color: #393E46;
+    padding: 5%;
+    margin: 10%;
+}
+
+.workexperience-content {
+    border-radius: 4vh;
+    background-color: #393E46;
+    padding: 5%;
+    margin: 10%;
 }
