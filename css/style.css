@@ -1,5 +1,3 @@
-/**************************************************TAG SELECTORS**************************************************/
-
 body {
     background-color: #222831;
     margin: 0;
@@ -13,8 +11,8 @@ body {
 
 .overlay {
     background-color: #393E46;
-    border-radius: 5vw;
-    height: 50vh; width: 50vw;
+    border-radius: 10%;
+    height: 50%; width: 50%;
     margin: auto;
     padding: 5%;
     position: absolute;
@@ -22,9 +20,9 @@ body {
 }
 
 #moss-img {
-    border-radius: 3vh;
+    border-radius: 10%;
     display: block;
-    height: auto; max-width: 28vw;
+    height: 40%;
     margin: auto;
 }
 
@@ -32,7 +30,7 @@ h1 {
     color: #00ADB5;
     font-family: verdana, sans-serif; font-size: 250%;
     height: auto;
-    margin: 5vh 0 0 0;
+    margin: 10% 0 0 0;
     text-align: center;
 }
 
@@ -40,7 +38,7 @@ p {
     color: #EEEEEE;
     font-family: verdana, sans-serif; font-size: 100%;
     height: auto;
-    margin: 4vh 0 0 0;
+    margin: 10% 0 0 0;
     text-align: center;
 }
 
