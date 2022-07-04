@@ -1,0 +1,210 @@
+body {
+    background-color: #222831;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.heading {
+    display: flex;
+    height: 100vh; width: 100vw;
+    justify-content: center;
+    margin: 0;
+    padding: 10% 0 0 0;
+}
+
+.heading-left {
+    display: inline;
+    margin: 0 1% 0 0;
+}
+
+.profile-pic {
+    align-items: center;
+    border: 2px solid #00ADB5; border-radius: 100%;
+    width: 10rem;
+}
+
+.overlay-heading {
+    background-color: #393E46;
+    border: 2px solid #00ADB5; border-radius: 5vw;
+    height: fit-content; width: fit-content;
+    padding: 10%;
+    white-space: nowrap;
+}
+
+.heading-right {
+    display: inline;
+    padding: 1%;
+    text-align: center;
+    width: 20%;
+}
+
+.title {
+    color: #00ADB5;
+    font-size: 4rem;
+    margin: 0 0 3% 0;
+}
+
+.headline {
+    color: #EEEEEE;
+    font-size: 1rem;
+    margin: 3% 0 0 0;
+}
+
+.laptop {
+    position: absolute;
+    top: auto; right: auto; bottom: 2%; left: 50%;
+    transform: translate(-50%, 0);
+    width: 20rem;
+}
+
+.shooting-star {
+    position: absolute;
+    width: 2rem;
+}
+
+.shooting-star-1 {
+    top: 15%; right: auto; bottom: auto; left: 20%;
+}
+
+.shooting-star-2 {
+    top: auto; right: 20%; bottom: 42%; left: auto;
+}
+
+hr {
+    border-style: none; 
+    border-top-style: dotted; border-color: #00ADB5; border-width: 5px;
+    width: 5%;
+}
+
+.middle-container {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.intro {
+    align-items: center;
+    height: 60vh; width: 100vw;
+}
+
+.container-left {
+    display: inline;
+    margin: 0 15% 0 0;
+}
+
+.hi-img {
+    width: 12rem;
+}
+
+.container-right {
+    display: inline;
+    margin: 0 0 0 15%;
+}
+
+.overlay {
+    background-color: #393E46;
+    border: 2px solid #00ADB5; border-radius: 5vw;
+    padding: 5%;
+    width: 30vw;
+}
+
+h2 {
+    color: #00ADB5;
+}
+
+p {
+    color: #EEEEEE;
+}
+
+.skills {
+    height: fit-content; width: 100vw;
+    flex-direction: column;
+    float: left;
+    justify-content: center;
+}
+
+.skill-overview-row {
+    display: flex;
+    height: fit-content; width: 100vw;
+    justify-content: center;
+    margin: 5% 0 0 0;
+}
+
+.skill-overview-content {
+    display: inline;
+}
+
+.frontend {
+    margin: 0 10% 0 0;
+}
+
+.backend {
+    margin: 0 0 0 10%;
+}
+
+.skill-overview-img {
+    width: 10rem;
+}
+
+h3 {
+    color: #00ADB5;
+    text-align: center;
+}
+
+.skill-specific-row {
+    height: fit-content; width: 100vw;
+    justify-content: center;
+    margin: 0;
+}
+
+.list-img {
+    width: 2rem;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    margin: 5% 0 5% 0;
+}
+
+li {
+    color: #EEEEEE;
+    display: inline;
+    text-align: center;
+    margin: 0 2% 0 2%;
+}
+
+.bottom-container {
+    align-items: center;
+    display: flex;
+    height: 30vh;
+    justify-content: center;
+}
+
+.link-group {
+    text-align: center;
+
+}
+
+.link-group-1 {
+    padding: 0 10% 0 0;
+}
+
+.link-group-2 {
+    padding: 0 0 0 10%;
+}
+
+.bottom-button {
+    border-radius: 3vw;
+    padding: 5%;
+}
+
+.button-img {
+    margin: 0% 0 0 0.5%;
+    width: 1.1rem;
+}
+
+.copyright {
+    padding: 0 1% 0 0;
+    text-align: right;
+}
